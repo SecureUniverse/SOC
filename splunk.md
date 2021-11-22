@@ -6,6 +6,7 @@
     - Universal Forwarder
     - Heavy Forwarder 
   - Indexer 
+    - Repository of splunk events
   - Search Head
     - 1
     - 2
@@ -28,7 +29,8 @@
 - Violation
   - Warning -> Violation -> No enforcement  
 
-## Configuration File [Link](https://docs.splunk.com/Documentation/Splunk/8.2.3/Admin/Listofconfigurationfiles)
+## Configuration File
+- [Reference](https://docs.splunk.com/Documentation/Splunk/8.2.3/Admin/Listofconfigurationfiles)
 - inputs.conf
 - props.conf
 - transforms.conf
