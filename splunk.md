@@ -3,12 +3,24 @@
 ## Components
 - Processing
   - Forwarder
-  - Indexer
+    - Universal Forwarder
+    - Heavy Forwarder 
+  - Indexer 
   - Search Head
 
 - Management
   - Monitoring Console
   - Deployment Server
   - License Server/Master
-  - Cluster Master
-  - Deployer  
+  - Indexer Cluster Master
+  - Searc Head Cluster Deployer  
+
+## License
+- Types
+  - Standard
+  - Enterprise Trial
+  - Free
+  - Forwarder 
+ 
+- Violation
+  - Warning -> Violation -> No enforcement  
