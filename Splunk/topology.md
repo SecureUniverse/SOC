@@ -18,6 +18,8 @@
 
 - Other
   - Splunk License01
+    - 10.30.180.121 
+    - 10.30.180.132 
   - Splunk License02 
   - Deployment Server
   - Monitoring Console
